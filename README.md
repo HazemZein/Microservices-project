@@ -1,4 +1,4 @@
-<status badge>
+[![<HazemZein>](https://circleci.com/gh/HazemZein/Microservices-project.svg?style=svg)](https://circleci.com/gh/HazemZein/Microservices-project)
 
 ## Project Overview
 
