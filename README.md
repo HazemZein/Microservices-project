@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+https://circleci.com/gh/HazemZein/Microservices-project
 
 ## Project Overview
 
